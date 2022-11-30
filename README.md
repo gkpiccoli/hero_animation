@@ -1,6 +1,6 @@
-# mysample
+# Hero class Animations
 
-A new Flutter project.
+This project was made to test Hero class animations on Flutter.
 
 ## Getting Started
 
