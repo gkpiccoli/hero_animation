@@ -2,7 +2,10 @@
 
 This project was made to test Hero class animations on Flutter.
 
+O Objetivo do projeto é criar um card que transiciona com clique abrindo mais informações
+
 ## Getting Started
+
 - Open terminal and choose a directory
 - Clone the project
 - flutter run
