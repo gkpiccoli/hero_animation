@@ -35,7 +35,9 @@ class HeroExample extends StatelessWidget {
         body: const Center(
           child: Hero(
             tag: 'hero-rectangle',
-            child: BoxWidget(size: Size(200.0, 200.0)),
+            child: BoxWidget(
+              size: Size(200.0, 200.0),
+            ),
           ),
         ),
       ),
@@ -54,6 +56,7 @@ class BoxWidget extends StatelessWidget {
       width: size.width,
       height: size.height,
       color: Colors.blue,
+      child: AssetImage ,
     );
   }
 }
