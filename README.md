@@ -3,6 +3,9 @@
 This project was made to test Hero class animations on Flutter.
 
 ## Getting Started
+- Open terminal and choose a directory
+- Clone the project
+- flutter run
 
 This project is a starting point for a Flutter application.
 
