@@ -56,7 +56,7 @@ class BoxWidget extends StatelessWidget {
       width: size.width,
       height: size.height,
       color: Colors.blue,
-      child: AssetImage ,
+      child: Image.asset('images/dash_fluter.png'),
     );
   }
 }
